@@ -3,8 +3,8 @@ description: core util package.
 publish_to: none
 
 environment:
-  sdk: 3.2.6
-  flutter: 3.16.9
+  sdk: 3.8.1
+  flutter: 3.32.8
 
 dependencies:
   flutter:
@@ -12,5 +12,5 @@ dependencies:
 
   custom_refresh_indicator: 3.1.0
   flutter_svg: 2.0.10+1
-  intl: 0.18.1
+  intl: 0.20.2
   shimmer: 3.0.0
